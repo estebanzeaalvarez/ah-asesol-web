@@ -33,7 +33,7 @@ Plataforma corporativa de alto rendimiento diseñada para **A&H ASESOL**, una fi
 
 Este repositorio contiene código propietario y activos de marca exclusivos. 
 
-- **PROHIBIDA** la reproducción, distribución o uso comercial de cualquier parte de este código sin autorización expresa de los titulares de la marca.
+- **PROHIBIDA** la reproducción, distribución o uso comercial de cualquier parte de este código sin autorización expresa de los titulares de la Marca.
 - El uso de la estructura visual y lógica para fines de clonación o "reskinning" será reportado bajo las normativas de propiedad intelectual vigentes.
 
 *Desarrollado con precisión técnica por Esteban Zea A.*
